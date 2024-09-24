@@ -5,3 +5,6 @@ Soy bióloga y antropóloga en búsqueda de aprender más de programación. Siem
 
 ## Contact me
 Pueden contactarme por medios telepáticos
+
+## Hobbies
+Programming
