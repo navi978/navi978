@@ -18,3 +18,6 @@ Front-End: my expertise in Angular allows me to create interactive and user-frie
 
 ## Hobbies
 Programming, cooking, watching series, ggg
+
+## Adicional
+Una extra rama porque #yolo
